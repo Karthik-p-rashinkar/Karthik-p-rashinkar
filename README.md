@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Karthik-p-rashinkar
 - 👀 I’m interested in mobile, blockchain and web development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ruby on rails, swift
+- 💞️ I’m looking to collaborate on swift / ios development, web development.
 - 📫 you can reach me via my email - rashinkarkarthik@gmail.com
 
 <!---
